@@ -1,5 +1,4 @@
-- name: Lint (Compile)
-  run: ./gradlew compileJavaname: CI
+name: CI
 
 on:
   push:
